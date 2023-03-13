@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Michael 👋</h1>
-<h3 align="center">I like automation</h3>
+<h3 align="center">Just a guy that enjoys automation</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thatmp7&label=Profile%20views&color=0e75b6&style=flat" alt="thatmp7" /> </p>
 
