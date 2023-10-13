@@ -1,13 +1,15 @@
-<h1 align="center">Hi, I'm Michael 👋</h1>
-<h3 align="center">Just a guy that enjoys automation</h3>
+# Welcome! I'm Michael 👋🏽
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=createdbymp&label=Profile%20views&color=0e75b6&style=flat" alt="createdbymp" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thatmp7&label=Profile%20views&color=0e75b6&style=flat" alt="thatmp7" /> </p>
+## 🤵🏽   About Me
+I am someone who genuinely loves to learn, relishes a challenge, and continually strives for greatness. My interest in technology ignited with my passion for video games. I always wondered how pieces of hard plastic and metal could come together to produce such an awe-inspiring gaming experience. This curiosity only deepened with the advent of online gaming. All I could think about was 'dedicated server' this and 'dedicated server' that, propelling me down a rabbit hole of information seeking. Fast forward to attaining a Master of Science in Information Technology, acquiring various IT certifications, and accumulating years of professional experience. I find that the same interest and curiosity I had as a kid still burns within me.
 
-- 🔭 I’m currently working on [Terraform Modules](https://github.com/thatmp7-terraform-modules)
+##  🤓  Projects
 
-- 🌱 I’m currently learning **DevOps**
+ - [Setting up Splunk Enterprise on AWS](https://github.com/createdbymp/splunk)
 
-- ⚡ Fun fact: **I enjoy digital art...hint hint. My profile picture!**
+##  📚 Certifications
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+ - [CompTIA Security+ ce](https://www.credly.com/badges/3674c579-8c01-48fc-a1fc-7274e2f8c0aa) 
+ - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/a154bc98-e5e3-4794-ba83-cd2fb1b4dae3/public_url)
+ - [Terraform: Certified Associate](https://www.credly.com/badges/8e2b591a-094b-4d0a-b524-8ae3a61af284)
