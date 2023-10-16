@@ -4,7 +4,7 @@
 ## 🤵🏽   About Me
 I am someone who genuinely loves to learn, relishes a challenge, and continually strives for greatness. My interest in technology ignited with my passion for video games. I always wondered how pieces of hard plastic and metal could come together to produce such an awe-inspiring gaming experience. This curiosity only deepened with the advent of online gaming. All I could think about was 'dedicated server' this and 'dedicated server' that, propelling me down a rabbit hole of information seeking. Fast forward to attaining a Master of Science in Information Technology, acquiring various IT certifications, and accumulating years of professional experience. I find that the same interest and curiosity I had as a kid still burns within me.
 
-I also enjoy art. I draw various things on my iPad using Procreate. Also, I pursue photography as well. I have been into the niche of cars recently. My profile picture was done by me :D 
+I also enjoy art. I draw various things on my iPad using Procreate. My profile picture was done by me :D. Also, I pursue photography as well. I have been into the niche of cars recently. Check out my [Flickr](https://www.flickr.com/photos/198951616@N06/albums). 
 
 ##  🤓  Projects
 
