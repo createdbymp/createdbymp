@@ -9,6 +9,7 @@ I also enjoy art. I draw various things on my iPad using Procreate. My profile p
 ##  🤓  Projects
 
  - [Setting up Splunk Enterprise on AWS](https://github.com/createdbymp/splunk)
+ - [Splunk4Rookies - Workshop](https://github.com/createdbymp/splunk)
 
 ##  📚 Certifications
 
