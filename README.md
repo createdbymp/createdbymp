@@ -19,7 +19,7 @@
   <!-- Total Stars -->
   <a href="https://github.com/createdbymp">
     <img
-      src="https://img.shields.io/github/stars/creationsoftre?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&label=Total%20Stars"
+      src="https://img.shields.io/github/stars/createdbymp?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&label=Total%20Stars"
       alt="Total Stars"
       height="28"
     />
@@ -34,8 +34,7 @@
 </p>
 
 
-# Hello! Hola! Halo!
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=createdbymp&label=Profile%20views&color=0e75b6&style=flat" alt="createdbymp" /> </p>
+<p align="center"> # Hello! Hola! Halo! </p>
 
 ## 🤵🏽   About Me
 I am someone who genuinely loves to learn, relishes a challenge, and continually strives for greatness. My interest in technology ignited with my passion for video games. I always wondered how pieces of hard plastic and metal could come together to produce such an awe-inspiring gaming experience. This curiosity only deepened with the advent of online gaming. All I could think about was 'dedicated server' this and 'dedicated server' that, propelling me down a rabbit hole of information seeking. Fast forward to attaining a Master of Science in Information Technology, acquiring various IT certifications, and accumulating years of professional experience. I find that the same interest and curiosity I had as a kid still burns within me.
