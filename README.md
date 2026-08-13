@@ -1,10 +1,48 @@
+<!-- All badges row -->
+<p align="center">
+  <!-- Profile Views -->
+  <img
+    src="https://komarev.com/ghpvc/?username=createdbymp&style=for-the-badge&label=Profile%20Views"
+    alt="Profile Views"
+    height="28"
+  />
+
+  <!-- Followers -->
+  <a href="https://github.com/createdbymp?tab=followers">
+    <img
+      src="https://img.shields.io/github/followers/createdbymp?style=for-the-badge&label=Followers"
+      alt="Followers"
+      height="28"
+    />
+  </a>
+
+  <!-- Total Stars -->
+  <a href="https://github.com/createdbymp">
+    <img
+      src="https://img.shields.io/github/stars/creationsoftre?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&label=Total%20Stars"
+      alt="Total Stars"
+      height="28"
+    />
+  </a>
+
+  <!-- Last Update -->
+  <img
+    src="https://img.shields.io/github/last-commit/createdbymp/createdbymp?style=for-the-badge&label=Last%20Update"
+    alt="Last Update"
+    height="28"
+  />
+</p>
+
+
+
+
 # Welcome! I'm Michael 👋🏽
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=createdbymp&label=Profile%20views&color=0e75b6&style=flat" alt="createdbymp" /> </p>
 
 ## 🤵🏽   About Me
 I am someone who genuinely loves to learn, relishes a challenge, and continually strives for greatness. My interest in technology ignited with my passion for video games. I always wondered how pieces of hard plastic and metal could come together to produce such an awe-inspiring gaming experience. This curiosity only deepened with the advent of online gaming. All I could think about was 'dedicated server' this and 'dedicated server' that, propelling me down a rabbit hole of information seeking. Fast forward to attaining a Master of Science in Information Technology, acquiring various IT certifications, and accumulating years of professional experience. I find that the same interest and curiosity I had as a kid still burns within me.
 
-I also enjoy art. I draw various things on my iPad using Procreate. My profile picture was done by me :D. Also, I pursue photography as well. I have been into the niche of cars recently. Check out my [Flickr](https://www.flickr.com/photos/198951616@N06/albums). 
+I also enjoy art. I draw various things on my iPad using Procreate. My profile picture was done by me :D. Also, I pursue photography as well.
 
 ##  🤓  Projects
 
