@@ -1,5 +1,5 @@
 <!-- All badges row -->
-<p align="center">
+<p align="left">
   <!-- Profile Views -->
   <img
     src="https://komarev.com/ghpvc/?username=createdbymp&style=for-the-badge&label=Profile%20Views"
@@ -34,10 +34,8 @@
 </p>
 
 
-
-
-# Welcome! I'm Michael 👋🏽
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=createdbymp&label=Profile%20views&color=0e75b6&style=flat" alt="createdbymp" /> </p>
+# Hello! Hola! Halo!
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=createdbymp&label=Profile%20views&color=0e75b6&style=flat" alt="createdbymp" /> </p>
 
 ## 🤵🏽   About Me
 I am someone who genuinely loves to learn, relishes a challenge, and continually strives for greatness. My interest in technology ignited with my passion for video games. I always wondered how pieces of hard plastic and metal could come together to produce such an awe-inspiring gaming experience. This curiosity only deepened with the advent of online gaming. All I could think about was 'dedicated server' this and 'dedicated server' that, propelling me down a rabbit hole of information seeking. Fast forward to attaining a Master of Science in Information Technology, acquiring various IT certifications, and accumulating years of professional experience. I find that the same interest and curiosity I had as a kid still burns within me.
