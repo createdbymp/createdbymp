@@ -5,7 +5,7 @@
   <img
     src="https://komarev.com/ghpvc/?username=createdbymp&style=for-the-badge&label=Profile%20Views"
     alt="Profile Views"
-    height="25"
+    height="28"
   />
 
   <!-- Followers -->
@@ -13,7 +13,7 @@
     <img
       src="https://img.shields.io/github/followers/createdbymp?style=for-the-badge&label=Followers"
       alt="Followers"
-      height="25"
+      height="28"
     />
   </a>
 
@@ -22,7 +22,7 @@
     <img
       src="https://img.shields.io/github/stars/createdbymp?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&label=Total%20Stars"
       alt="Total Stars"
-      height="25"
+      height="28"
     />
   </a>
 
@@ -30,7 +30,7 @@
   <img
     src="https://img.shields.io/github/last-commit/createdbymp/createdbymp?style=for-the-badge&label=Last%20Update"
     alt="Last Update"
-    height="25"
+    height="28"
   />
 </p>
 
